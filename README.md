@@ -1,3 +1,9 @@
+# Next Fauna Example
+This repo was created by following the tutorial from the Vercel Guides [here](https://vercel.com/guides/deploying-nextjs-nodejs-and-faunadb-with-vercel)
+
+The purpose was to understand how to connect a Next app to Fauna's GraphQL endpoint as well as utilize Vercel's serverless functions and secrets functionality.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
